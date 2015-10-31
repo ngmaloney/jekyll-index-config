@@ -1,0 +1,15 @@
+name: Jekyll Index Config Plugin
+markdown: redcarpet
+highlighter: false
+index: home.markdown
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - LICENSE
+  - README.md
+  - spec
