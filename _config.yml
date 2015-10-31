@@ -13,3 +13,5 @@ exclude:
   - LICENSE
   - README.md
   - spec
+  - Gemfile
+  - Gemfile.lock
